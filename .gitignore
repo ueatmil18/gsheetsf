@@ -1,0 +1,25 @@
+# Configuration files
+config.json
+
+# Flutter/Dart general
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.iml
+
+# Pub
+pubspec.lock
+
+# IDE specific
+.idea/
+.vscode/
+
+# Keystore files (if any Android specific work is done)
+*.jks
+*.keystore
+
+# Sensitive environment files
+.env*
+secrets.json
